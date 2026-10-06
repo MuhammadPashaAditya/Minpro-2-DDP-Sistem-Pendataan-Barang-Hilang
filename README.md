@@ -16,7 +16,8 @@ Sebelum saya menjelaskan alurnya, saya ingin berterimakasih atas Masukan Aslab s
 Berikut penjelasan alur nya:
 Program dimulai dari halaman login. Pengguna memasukkan username dan password. Jika data login salah, pengguna akan diminta mencoba kembali.
 Jika login berhasil, program mengecek role pengguna.
-Dan ini untuk Flowchart gabungan dari minpro1
+
+Dan ini untuk Flowchart gabungan dari minpro1 dan minpro2
 <img width="4188" height="7288" alt="image" src="https://github.com/user-attachments/assets/583fa3e8-59e1-479d-8308-a183ca9886e1" />
 berikut penjelasan nya:
 Program dimulai dengan proses login menggunakan username dan password. Setelah login berhasil, sistem akan mengecek role pengguna. Admin memiliki akses penuh untuk menambah, melihat, mengubah, dan menghapus data barang, sedangkan user hanya dapat melihat data.
